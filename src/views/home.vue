@@ -1,6 +1,9 @@
 
 <template>
 <div>
+    <br>
+    <br>
+   <center> <h1>欢迎访问梦学谷管理系统</h1></center>
 </div>
 </template>
 
